@@ -10,6 +10,7 @@ The project uses a state machine to cycle through availble menus. This state sys
 - Wire for AC, Ground and Input/Output
 - Electrical tape
 - Case using a 3D printer is optional
+- Battery pack or solar panels are optional. (Wired power could be used)
 
 The Led lights are assigned to GPIO.BCM pins as follows:
 Hall effect sensor - Pin 4
