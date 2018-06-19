@@ -18,6 +18,8 @@ Red Led - Pin 22
 Green Led - Pin 27
 
 The attached pictures show what an uncased project would look like upon completion. 
+### Youtube Video:
+https://youtu.be/Fo_zGFH_-Vc
 
 ### Actual Project:
 
